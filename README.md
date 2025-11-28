@@ -12,7 +12,7 @@ We present a learning-based approach to reconstruct buildings as 3D polygonal me
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Point2Building.git
+   git clone https://github.com/sayedtaban/3D-polygonal-building-from-LiDAR-point-cloud.git
    cd Point2Building
     ```
 
@@ -57,7 +57,3 @@ For training and testing, you can download the following resources from [link](h
 - Processed Dataset: A ready-to-use dataset specifically processed for this project.
 - Pre-trained Models: Pre-trained models to facilitate immediate testing and evaluation.
 - Visualized Results: Examples of visualized results from the models for reference.
-
-## Acknowledgements
-
-This work is built upon [polygen](https://github.com/anshulcgm/polygen/tree/master). We thank the author's great work and repo.
